@@ -12,4 +12,5 @@ esto es para el trabajo
 VIVA LA SALCHIPAPA
 
 
-con todas sus cremas
+con todas sus cremas, menos crema de aceituna
+
